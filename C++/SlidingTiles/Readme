@@ -1,0 +1,11 @@
+Hello and Welcome to My Sliding Tiles Solver
+
+To run the program, just type 'make' in the terminal. The make file should compile the program. Once it finishes to compile. 
+Type './Test' and the program should run. Remember capital T in ./Test
+
+Once you finish testing the program, you can run 'make clean' and all the unwanted files will be deleted.
+
+The Program should be running okay. Just make sure that the configuration that you enter is solvable. Otherwise, it would run until run out of memory.
+
+THANKS
+

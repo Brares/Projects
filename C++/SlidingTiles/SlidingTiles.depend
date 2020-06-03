@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1553376672 source:/run/media/floj3620/UNTITLED/University/CPSC 3620/SlidingTiles/src/main.cpp
+	<iostream>
+	<stdio.h>
+	"Node.h"
+
+1553376535 /run/media/floj3620/UNTITLED/University/CPSC 3620/SlidingTiles/include/Node.h
+
+1553376454 source:/run/media/floj3620/UNTITLED/University/CPSC 3620/SlidingTiles/src/Node.cpp
+	"Node.h"
+
+1553377542 source:/home/floj3620/SlidingTiles/src/main.cpp
+	<iostream>
+	<stdio.h>
+	"Node.h"
+
+1553376535 /home/floj3620/SlidingTiles/include/Node.h
+
+1553377349 source:/home/floj3620/SlidingTiles/src/Node.cpp
+	"Node.h"
+
+1553378582 source:/home/floj3620/SlidingTiles/src/Board_Tile.cpp
+	"Board_Tile.h"
+
+1553378960 /home/floj3620/SlidingTiles/include/Board_Tile.h
+	<iostream>
+	<vector>
+
+1553378935 source:/home/floj3620/SlidingTiles/src/Sliding_Solver.cpp
+	"Sliding_Solver.h"
+
+1553378957 /home/floj3620/SlidingTiles/include/Sliding_Solver.h
+	<iostream>
+	<vector>
+
+1553378582 source:/media/jonathan/UNTITLED/University/CPSC 3620/SlidingTiles/src/Board_Tile.cpp
+	"Board_Tile.h"
+
+1553378960 /media/jonathan/UNTITLED/University/CPSC 3620/SlidingTiles/include/Board_Tile.h
+	<iostream>
+	<vector>
+
+1553558419 source:/media/jonathan/UNTITLED/University/CPSC 3620/SlidingTiles/src/main.cpp
+	<iostream>
+	<stdio.h>
+	"Node.h"
+
+1553376534 /media/jonathan/UNTITLED/University/CPSC 3620/SlidingTiles/include/Node.h
+
+1553558561 source:/media/jonathan/UNTITLED/University/CPSC 3620/SlidingTiles/src/Node.cpp
+	"Node.h"
+
+1553378934 source:/media/jonathan/UNTITLED/University/CPSC 3620/SlidingTiles/src/Sliding_Solver.cpp
+	"Sliding_Solver.h"
+
+1553558476 /media/jonathan/UNTITLED/University/CPSC 3620/SlidingTiles/include/Sliding_Solver.h
+	<iostream>
+	<vector>
+
+1553817850 source:/home/jonathan/SlidingTiles/src/main.cpp
+	<iostream>
+	<stdio.h>
+	"Node.h"
+	"Board_Tile.h"
+	"Sliding_Solver.h"
+
+1553376534 /home/jonathan/SlidingTiles/include/Node.h
+
+1553558742 source:/home/jonathan/SlidingTiles/src/Node.cpp
+	"Node.h"
+
+1553832183 source:/home/jonathan/SlidingTiles/src/Board_Tile.cpp
+	"Board_Tile.h"
+
+1553831986 /home/jonathan/SlidingTiles/include/Board_Tile.h
+	<iostream>
+	<vector>
+
+1553821725 source:/home/jonathan/SlidingTiles/src/Sliding_Solver.cpp
+	"Sliding_Solver.h"
+
+1553833972 /home/jonathan/SlidingTiles/include/Sliding_Solver.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<queue>
+	<Board_Tile.h>
+
