@@ -1,0 +1,28 @@
+C:\Users\jonathan.floresav\Source\Repos\NWindOrdering2018GroupProject\NWindDBLibrary\bin\Debug\NWindDBLibrary.dll
+C:\Users\jonathan.floresav\Source\Repos\NWindOrdering2018GroupProject\NWindDBLibrary\bin\Debug\NWindDBLibrary.pdb
+C:\Users\jonathan.floresav\Source\Repos\NWindOrdering2018GroupProject\NWindDBLibrary\bin\Debug\BaseLayerObjects.dll
+C:\Users\jonathan.floresav\Source\Repos\NWindOrdering2018GroupProject\NWindDBLibrary\bin\Debug\BaseLayerObjects.pdb
+C:\Users\jonathan.floresav\Source\Repos\NWindOrdering2018GroupProject\NWindDBLibrary\obj\Debug\NWindDBLibrary.csprojResolveAssemblyReference.cache
+C:\Users\jonathan.floresav\Source\Repos\NWindOrdering2018GroupProject\NWindDBLibrary\obj\Debug\NWindDBLibrary.dll
+C:\Users\jonathan.floresav\Source\Repos\NWindOrdering2018GroupProject\NWindDBLibrary\obj\Debug\NWindDBLibrary.pdb
+F:\ITEC275- DataBases\NwindAPI2018 1\NWindDBLibrary\bin\Debug\NWindDBLibrary.dll
+F:\ITEC275- DataBases\NwindAPI2018 1\NWindDBLibrary\bin\Debug\NWindDBLibrary.pdb
+F:\ITEC275- DataBases\NwindAPI2018 1\NWindDBLibrary\bin\Debug\BaseLayerObjects.dll
+F:\ITEC275- DataBases\NwindAPI2018 1\NWindDBLibrary\bin\Debug\BaseLayerObjects.pdb
+F:\ITEC275- DataBases\NwindAPI2018 1\NWindDBLibrary\obj\Debug\NWindDBLibrary.csprojResolveAssemblyReference.cache
+F:\ITEC275- DataBases\NwindAPI2018 1\NWindDBLibrary\obj\Debug\NWindDBLibrary.dll
+F:\ITEC275- DataBases\NwindAPI2018 1\NWindDBLibrary\obj\Debug\NWindDBLibrary.pdb
+F:\ITEC275- DataBases\MakingWebAPI\NWindDBLibrary\bin\Debug\NWindDBLibrary.dll
+F:\ITEC275- DataBases\MakingWebAPI\NWindDBLibrary\bin\Debug\NWindDBLibrary.pdb
+F:\ITEC275- DataBases\MakingWebAPI\NWindDBLibrary\bin\Debug\BaseLayerObjects.dll
+F:\ITEC275- DataBases\MakingWebAPI\NWindDBLibrary\bin\Debug\BaseLayerObjects.pdb
+F:\ITEC275- DataBases\MakingWebAPI\NWindDBLibrary\obj\Debug\NWindDBLibrary.csprojResolveAssemblyReference.cache
+F:\ITEC275- DataBases\MakingWebAPI\NWindDBLibrary\obj\Debug\NWindDBLibrary.dll
+F:\ITEC275- DataBases\MakingWebAPI\NWindDBLibrary\obj\Debug\NWindDBLibrary.pdb
+F:\ITEC275- DataBases\MakingWebAPIJonathan\NWindDBLibrary\bin\Debug\NWindDBLibrary.dll
+F:\ITEC275- DataBases\MakingWebAPIJonathan\NWindDBLibrary\bin\Debug\NWindDBLibrary.pdb
+F:\ITEC275- DataBases\MakingWebAPIJonathan\NWindDBLibrary\bin\Debug\BaseLayerObjects.dll
+F:\ITEC275- DataBases\MakingWebAPIJonathan\NWindDBLibrary\bin\Debug\BaseLayerObjects.pdb
+F:\ITEC275- DataBases\MakingWebAPIJonathan\NWindDBLibrary\obj\Debug\NWindDBLibrary.csprojResolveAssemblyReference.cache
+F:\ITEC275- DataBases\MakingWebAPIJonathan\NWindDBLibrary\obj\Debug\NWindDBLibrary.dll
+F:\ITEC275- DataBases\MakingWebAPIJonathan\NWindDBLibrary\obj\Debug\NWindDBLibrary.pdb

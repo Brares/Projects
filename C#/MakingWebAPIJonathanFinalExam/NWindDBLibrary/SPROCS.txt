@@ -1,0 +1,30 @@
+﻿
+ReceiveStockForCategory SPROC:
+
+
+GO
+/****** Object:  StoredProcedure [dbo].[ReceiveStockForCategory]    Script Date: 1/10/2018 1:30:09 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+-- =============================================
+-- Author:		Mark
+-- Create date: 1/10/2018
+-- Description:	<Description,,>
+-- =============================================
+--
+ALTER PROCEDURE [dbo].[ReceiveStockForCategory]
+	-- Add the parameters for the stored procedure here
+	@CategoryID int
+	--<@Param1, sysname, @p1> <Datatype_For_Param1, , int> = <Default_Value_For_Param1, , 0>, 
+	--<@Param2, sysname, @p2> <Datatype_For_Param2, , int> = <Default_Value_For_Param2, , 0>
+AS
+BEGIN
+    -- Insert statements for procedure here
+	Update Products
+	set UnitsInStock += UnitsOnOrder
+	where CategoryID = @CategoryID and UnitsOnOrder != 0
+
+END
+return @@rowcount

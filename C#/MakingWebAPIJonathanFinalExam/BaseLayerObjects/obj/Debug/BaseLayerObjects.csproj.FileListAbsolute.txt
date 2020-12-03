@@ -1,0 +1,13 @@
+C:\Users\jonathan.floresav\Source\Repos\NWindOrdering2018GroupProject\BaseLayerObjects\bin\Debug\BaseLayerObjects.dll
+C:\Users\jonathan.floresav\Source\Repos\NWindOrdering2018GroupProject\BaseLayerObjects\bin\Debug\BaseLayerObjects.pdb
+C:\Users\jonathan.floresav\Source\Repos\NWindOrdering2018GroupProject\BaseLayerObjects\obj\Debug\BaseLayerObjects.dll
+C:\Users\jonathan.floresav\Source\Repos\NWindOrdering2018GroupProject\BaseLayerObjects\obj\Debug\BaseLayerObjects.pdb
+F:\ITEC275- DataBases\NwindAPI2018 1\BaseLayerObjects\bin\Debug\BaseLayerObjects.dll
+F:\ITEC275- DataBases\NwindAPI2018 1\BaseLayerObjects\bin\Debug\BaseLayerObjects.pdb
+F:\ITEC275- DataBases\NwindAPI2018 1\BaseLayerObjects\obj\Debug\BaseLayerObjects.csprojResolveAssemblyReference.cache
+F:\ITEC275- DataBases\NwindAPI2018 1\BaseLayerObjects\obj\Debug\BaseLayerObjects.dll
+F:\ITEC275- DataBases\NwindAPI2018 1\BaseLayerObjects\obj\Debug\BaseLayerObjects.pdb
+F:\ITEC275- DataBases\MakingWebAPI\BaseLayerObjects\bin\Debug\BaseLayerObjects.dll
+F:\ITEC275- DataBases\MakingWebAPI\BaseLayerObjects\bin\Debug\BaseLayerObjects.pdb
+F:\ITEC275- DataBases\MakingWebAPI\BaseLayerObjects\obj\Debug\BaseLayerObjects.dll
+F:\ITEC275- DataBases\MakingWebAPI\BaseLayerObjects\obj\Debug\BaseLayerObjects.pdb
