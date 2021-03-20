@@ -26,12 +26,15 @@ bool isValid(string word, string data) {
 		size_t found1 = data.find(in);
 		size_t found2 = data.find(cm);
 		if (found1 != string::npos || found2 != string::npos) {
-			if ()
+			if (found1) {
+				cout << data << endl;
+			} else {
+				cout << data << endl;
+			}
 			
 		} else
 			return false;
 	}
-
 	return true;
 }
 
@@ -68,7 +71,7 @@ int main() {
 					
 					table[word]++;
 					counter++;
-					cout << word << " " << counter << endl;
+					//cout << word << " " << counter << endl;
 					if (word == "cid") {
 						counter--;
 					}
@@ -86,7 +89,7 @@ int main() {
 			}
 
 			counter = 0;
-			cout << line << endl;
+			//cout << line << endl;
 			line = "";
 			clearMap(table);
 		}
