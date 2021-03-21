@@ -4,6 +4,8 @@
 
 using namespace std;
 
+vector<string> colours = {"amb", "blu", "brn", "gry", "grn", "hzl", "oth"};
+
 void clearMap(map<string, int> &table) {
 	for (auto &pr : table) { 
 		pr.second = 0;
@@ -25,16 +27,32 @@ bool isValid(string word, string data) {
 		string in = "in", cm = "cm";
 		size_t found1 = data.find(in);
 		size_t found2 = data.find(cm);
-		if (found1 != string::npos || found2 != string::npos) {
-			if (found1) {
-				cout << data << endl;
-			} else {
-				cout << data << endl;
-			}
-			
+		if (found1 != string::npos)  {
+			data.erase(found1, in.length());
+			if (stoi(data) < 59 || stoi(data) > 76)
+				return false;
+		} else if (found2 != string::npos) {
+			data.erase(found2, cm.length());
+			if (stoi(data) < 150 || stoi(data) > 193)
+				return false;
 		} else
 			return false;
+	} else if (word == "hcl") {
+		if (!regex_match (data, regex("[#][0-9|a-f]{6}"))) {
+			return false;
+		}
+			
+	} else if (word == "ecl") {
+		std::vector<string>::iterator it;
+		it = std::find (colours.begin(), colours.end(), data); 
+		if (it == colours.end())
+			return false;
+	} else if (word == "pid") {
+		if (!regex_match (data, regex("[0-9]{9}$"))) {
+			return false;
+		}
 	}
+	
 	return true;
 }
 
