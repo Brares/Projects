@@ -7,7 +7,7 @@ const { user } = require("firebase-functions/lib/providers/auth");
 const { decode } = require("firebase-functions/lib/providers/https");
 firebase.initializeApp(firebaseConfig);
 
-const { validateSignUp, validateLogin } = require('../utilities/validation');
+const { validateSignUp, validateLogin, reduceUserDetails } = require('../utilities/validation');
 const { FILE } = require('dns');
 const { ResultStorage } = require('firebase-functions/lib/providers/testLab');
 
@@ -107,6 +107,12 @@ exports.signup = (req, res) => {
         });
 };
 
+//Add user details
+exports.addUserDetails = (req, res) => {
+    let userDetails = reduceUserDetails(req.body);
+}
+
+//Add Image to user profile
 exports.uploadImage = (req, res) => {
     const BusBoy = require('busboy');
     const path = require('path');

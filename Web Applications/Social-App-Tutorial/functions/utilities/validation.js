@@ -39,3 +39,9 @@ exports.validateLogin = (data) => {
         valid: Object.keys(errors).length === 0 ? true : false
     }
 };
+
+exports.reduceUserDetails = (data) => {
+    let userDetails = {};
+
+    if (!isEmpty(data.profile.trim())) userDetails.profile = data.profile;
+};
